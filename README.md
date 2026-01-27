@@ -1,7 +1,5 @@
 1A Design a simple linear neural network model.     
-1B  Calculate the output of neural net using both binary and bipolar sigmoidal 
-function.  
-   
+1B  Calculate the output of neural net using both binary and bipolar sigmoidal function.     
 2A  Generate AND/NOT function using McCulloch-Pitts neural net.     
 2B  Generate XOR function using McCulloch-Pitts neural net.     
 3A  Write a program to implement Hebb’s rule.     
